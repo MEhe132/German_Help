@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 🔥 **1 Day** |
+| **Current Streak** | 🔥 **2 Days** |
 | **Streak Started** | Monday, 16 Nov 2026 |
-| **Last Active Date**| Monday, 16 Nov 2026 |
-| **Current Level** | A1.1 (Level 0 - Absolute Beginner) |
-| **Current Phase** | Phase 0 & 1: Sounds, Alphabet & Greetings |
+| **Last Active Date**| Tuesday, 17 Nov 2026 |
+| **Current Level** | A1.1 (Level 0 → Elementary) |
+| **Current Phase** | Phase 1: Identity, Personal Pronouns & Verb Engine |
 
 ---
 
@@ -22,16 +22,18 @@
 | Day | Date | Topic | Status | Link |
 | :---: | :---: | :--- | :---: | :---: |
 | **01** | **Mon, 16 Nov 2026** | **Phase 0 & 1: The Golden Sounds, Special Letters & First Greetings** | ✅ Completed | [Day 01 Notes](notes/day_01_2026-11-16.md) |
-| **02** | *Upcoming* | Introductions & Asking Questions (*Woher kommst du?*, *Ich wohne in...*) | ⏳ Pending | *Next Session* |
-| **03** | *Upcoming* | Numbers 0–20, Alphabet Spelling & Contact Exchange | ⏳ Pending | *Upcoming* |
+| **02** | **Tue, 17 Nov 2026** | **Phase 1: Personal Identity, Origins & The Verb Conjugation Engine** | ✅ Completed | [Day 02 Notes](notes/day_02_2026-11-17.md) |
+| **03** | *Upcoming* | Numbers 0–20, Alphabet Spelling & Formal vs Informal Mastery | ⏳ Pending | *Next Session* |
+| **04** | *Upcoming* | The Core Sentence Engine: The V2 Word Order Rule | ⏳ Pending | *Upcoming* |
 
 ---
 
 ## 🗺️ Master Curriculum Overview
 
 - [x] **Phase 0:** German Phonetics, Umlauts (`ä`, `ö`, `ü`), `ß`, and Sound Traps
-- [ ] **Phase 1:** Identity, Introductions, Personal Pronouns & Numbers
-- [ ] **Phase 2:** Sentence Engine, Verb Conjugation & The V2 Rule
+- [x] **Phase 1 (Part 1):** Identity, Greetings, Origins (`Woher`, `Wo`) & Verb Endings
+- [ ] **Phase 1 (Part 2):** Numbers 0–100, Alphabet Spelling, Contact Details
+- [ ] **Phase 2:** Sentence Engine, Irregular Verbs (*sein* / *haben*), V2 Rule & Questions
 - [ ] **Phase 3:** Gender Secrets (`der`, `die`, `das`) & The Accusative Case
 - [ ] **Phase 4:** Daily Life, Time, Modal Verbs (`können`, `müssen`, `möchten`)
 - [ ] **Phase 5:** The Dative Case & Speaking in the Past (*Perfekt*)
@@ -45,5 +47,6 @@ German_Help/
 ├── README.md               # Main Streak & Curriculum Tracker
 └── notes/
     ├── day_01_2026-11-16.md # Day 1: Phonetics, Umlauts & Greetings
+    ├── day_02_2026-11-17.md # Day 2: Identity, Origins & Verb Engine
     └── ...                 # Future daily notes
 ```
