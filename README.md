@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 🔥 **2 Days** |
+| **Current Streak** | 🔥 **3 Days** |
 | **Streak Started** | Monday, 16 Nov 2026 |
-| **Last Active Date**| Tuesday, 17 Nov 2026 |
+| **Last Active Date**| Wednesday, 18 Nov 2026 |
 | **Current Level** | A1.1 (Level 0 → Elementary) |
-| **Current Phase** | Phase 1: Identity, Personal Pronouns & Verb Engine |
+| **Current Phase** | Phase 1: Identity, Numbers & Communication |
 
 ---
 
@@ -23,8 +23,9 @@
 | :---: | :---: | :--- | :---: | :---: |
 | **01** | **Mon, 16 Nov 2026** | **Phase 0 & 1: The Golden Sounds, Special Letters & First Greetings** | ✅ Completed | [Day 01 Notes](notes/day_01_2026-11-16.md) |
 | **02** | **Tue, 17 Nov 2026** | **Phase 1: Personal Identity, Origins & The Verb Conjugation Engine** | ✅ Completed | [Day 02 Notes](notes/day_02_2026-11-17.md) |
-| **03** | *Upcoming* | Numbers 0–20, Alphabet Spelling & Formal vs Informal Mastery | ⏳ Pending | *Next Session* |
-| **04** | *Upcoming* | The Core Sentence Engine: The V2 Word Order Rule | ⏳ Pending | *Upcoming* |
+| **03** | **Wed, 18 Nov 2026** | **Phase 1: Numbers 0–20, Alphabet Spelling & Contact Exchange** | ✅ Completed | [Day 03 Notes](notes/day_03_2026-11-18.md) |
+| **04** | *Upcoming* | The Core Sentence Engine: The V2 Word Order Rule & Verbs (*sein* / *haben*) | ⏳ Pending | *Next Session* |
+| **05** | *Upcoming* | Asking Questions: W-Fragen vs. Ja/Nein Fragen | ⏳ Pending | *Upcoming* |
 
 ---
 
@@ -32,7 +33,7 @@
 
 - [x] **Phase 0:** German Phonetics, Umlauts (`ä`, `ö`, `ü`), `ß`, and Sound Traps
 - [x] **Phase 1 (Part 1):** Identity, Greetings, Origins (`Woher`, `Wo`) & Verb Endings
-- [ ] **Phase 1 (Part 2):** Numbers 0–100, Alphabet Spelling, Contact Details
+- [x] **Phase 1 (Part 2):** Numbers 0–20, Alphabet Spelling, Contact Details, `du` vs `Sie`
 - [ ] **Phase 2:** Sentence Engine, Irregular Verbs (*sein* / *haben*), V2 Rule & Questions
 - [ ] **Phase 3:** Gender Secrets (`der`, `die`, `das`) & The Accusative Case
 - [ ] **Phase 4:** Daily Life, Time, Modal Verbs (`können`, `müssen`, `möchten`)
@@ -48,5 +49,6 @@ German_Help/
 └── notes/
     ├── day_01_2026-11-16.md # Day 1: Phonetics, Umlauts & Greetings
     ├── day_02_2026-11-17.md # Day 2: Identity, Origins & Verb Engine
+    ├── day_03_2026-11-18.md # Day 3: Numbers 0-20, Spelling & Contact
     └── ...                 # Future daily notes
 ```
