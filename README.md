@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 🔥 **5 Days** |
+| **Current Streak** | 🔥 **6 Days** |
 | **Streak Started** | Monday, 16 Nov 2026 |
-| **Last Active Date**| Friday, 20 Nov 2026 |
+| **Last Active Date**| Saturday, 21 Nov 2026 |
 | **Current Level** | A1.1 (Level 0 → Elementary) |
-| **Current Phase** | Phase 2: The Core Sentence Engine & Question Formation |
+| **Current Phase** | Phase 3: German Genders, Articles & The Accusative Case |
 
 ---
 
@@ -26,7 +26,8 @@
 | **03** | **Wed, 18 Nov 2026** | **Phase 1: Numbers 0–20, Alphabet Spelling & Contact Exchange** | ✅ Completed | [Day 03 Notes](notes/day_03_2026-11-18.md) |
 | **04** | **Thu, 19 Nov 2026** | **Phase 2: The V2 Word Order Rule & Verbs (sein & haben)** | ✅ Completed | [Day 04 Notes](notes/day_04_2026-11-19.md) |
 | **05** | **Fri, 20 Nov 2026** | **Phase 2: Question Forming (W-Fragen vs. Ja/Nein) & Negation (nicht vs. kein)** | ✅ Completed | [Day 05 Notes](notes/day_05_2026-11-20.md) |
-| **06** | *Upcoming* | Phase 3: The Secret World of German Genders (*der*, *die*, *das*) & Definite/Indefinite Articles | ⏳ Pending | *Next Session* |
+| **06** | **Sat, 21 Nov 2026** | **Phase 3: The Secret World of German Genders (*der*, *die*, *das*) & Articles** | ✅ Completed | [Day 06 Notes](notes/day_06_2026-11-21.md) |
+| **07** | *Upcoming* | Phase 3: The Accusative Case (Direct Objects) & *den / einen / keinen* | ⏳ Pending | *Next Session* |
 
 ---
 
@@ -37,7 +38,8 @@
 - [x] **Phase 1 (Part 2):** Numbers 0–20, Alphabet Spelling, Contact Details, `du` vs `Sie`
 - [x] **Phase 2 (Part 1):** Sentence Engine, The V2 Rule, Verbs *sein* & *haben*
 - [x] **Phase 2 (Part 2):** Question Forming (Inversion vs W-Words) & Negation (*nicht* / *kein*)
-- [ ] **Phase 3:** Gender Secrets (`der`, `die`, `das`) & The Accusative Case
+- [x] **Phase 3 (Part 1):** Gender Secrets (`der`, `die`, `das`), Suffix Cheat Codes & Indefinite Articles (*ein/eine*)
+- [ ] **Phase 3 (Part 2):** The Accusative Case (Direct Objects) & *den / einen / keinen*
 - [ ] **Phase 4:** Daily Life, Time, Modal Verbs (`können`, `müssen`, `möchten`)
 - [ ] **Phase 5:** The Dative Case & Speaking in the Past (*Perfekt*)
 
@@ -54,5 +56,6 @@ German_Help/
     ├── day_03_2026-11-18.md # Day 3: Numbers 0-20, Spelling & Contact
     ├── day_04_2026-11-19.md # Day 4: V2 Sentence Rule & sein / haben
     ├── day_05_2026-11-20.md # Day 5: W-Fragen, Ja/Nein & Negation
+    ├── day_06_2026-11-21.md # Day 6: Genders (der/die/das) & Articles
     └── ...                 # Future daily notes
 ```
