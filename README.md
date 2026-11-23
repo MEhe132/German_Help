@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 🔥 **7 Days** |
+| **Current Streak** | 🔥 **8 Days** |
 | **Streak Started** | Monday, 16 Nov 2026 |
-| **Last Active Date**| Sunday, 22 Nov 2026 |
+| **Last Active Date**| Monday, 23 Nov 2026 |
 | **Current Level** | A1.1 (Level 0 → Elementary) |
-| **Current Phase** | Phase 3 Complete → Phase 4: Daily Life, Time & Modal Verbs |
+| **Current Phase** | Phase 4 (Part 1): Daily Routine, Time & Separable Verbs |
 
 ---
 
@@ -28,7 +28,8 @@
 | **05** | **Fri, 20 Nov 2026** | **Phase 2: Question Forming (W-Fragen vs. Ja/Nein) & Negation (nicht vs. kein)** | ✅ Completed | [Day 05 Notes](notes/day_05_2026-11-20.md) |
 | **06** | **Sat, 21 Nov 2026** | **Phase 3: The Secret World of German Genders (*der*, *die*, *das*) & Articles** | ✅ Completed | [Day 06 Notes](notes/day_06_2026-11-21.md) |
 | **07** | **Sun, 22 Nov 2026** | **Phase 3: The Accusative Case (Direct Objects) & *den / einen / keinen*** | ✅ Completed | [Day 07 Notes](notes/day_07_2026-11-22.md) |
-| **08** | *Upcoming* | Phase 4: Daily Routine, Telling Time & Separable Verbs | ⏳ Pending | *Next Session* |
+| **08** | **Mon, 23 Nov 2026** | **Phase 4: Daily Routine, Telling Time & Separable Verbs** | ✅ Completed | [Day 08 Notes](notes/day_08_2026-11-23.md) |
+| **09** | *Upcoming* | Phase 4: Modal Verbs (*können*, *müssen*, *möchten*) & Supermarket | ⏳ Pending | *Next Session* |
 
 ---
 
@@ -41,7 +42,8 @@
 - [x] **Phase 2 (Part 2):** Question Forming (Inversion vs W-Words) & Negation (*nicht* / *kein*)
 - [x] **Phase 3 (Part 1):** Gender Secrets (`der`, `die`, `das`), Suffix Cheat Codes & Indefinite Articles (*ein/eine*)
 - [x] **Phase 3 (Part 2):** The Accusative Case (Direct Objects) & *den / einen / keinen*
-- [ ] **Phase 4:** Daily Life, Time, Modal Verbs (`können`, `müssen`, `möchten`)
+- [x] **Phase 4 (Part 1):** Daily Routine, Telling Time (*um* / *am*) & Separable Verbs (*trennbare Verben*)
+- [ ] **Phase 4 (Part 2):** Food, Supermarket & Modal Verbs (`können`, `müssen`, `möchten`)
 - [ ] **Phase 5:** The Dative Case & Speaking in the Past (*Perfekt*)
 
 ---
@@ -59,5 +61,6 @@ German_Help/
     ├── day_05_2026-11-20.md # Day 5: W-Fragen, Ja/Nein & Negation
     ├── day_06_2026-11-21.md # Day 6: Genders (der/die/das) & Articles
     ├── day_07_2026-11-22.md # Day 7: Accusative Case & den / einen / keinen
+    ├── day_08_2026-11-23.md # Day 8: Daily Routine, Telling Time & Separable Verbs
     └── ...                 # Future daily notes
 ```
