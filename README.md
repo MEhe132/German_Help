@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 🔥 **9 Days** |
+| **Current Streak** | 🔥 **10 Days** |
 | **Streak Started** | Monday, 16 Nov 2026 |
-| **Last Active Date**| Tuesday, 24 Nov 2026 |
+| **Last Active Date**| Wednesday, 25 Nov 2026 |
 | **Current Level** | A1.1 (Level 0 → Elementary) |
-| **Current Phase** | Phase 4 (Part 2): Food, Supermarket & Modal Verbs |
+| **Current Phase** | Phase 5 (Part 1): The Dative Case & Direction Prepositions |
 
 ---
 
@@ -30,7 +30,8 @@
 | **07** | **Sun, 22 Nov 2026** | **Phase 3: The Accusative Case (Direct Objects) & *den / einen / keinen*** | ✅ Completed | [Day 07 Notes](notes/day_07_2026-11-22.md) |
 | **08** | **Mon, 23 Nov 2026** | **Phase 4: Daily Routine, Telling Time & Separable Verbs** | ✅ Completed | [Day 08 Notes](notes/day_08_2026-11-23.md) |
 | **09** | **Tue, 24 Nov 2026** | **Phase 4: Food, Supermarket & Modal Verbs (*können*, *müssen*, *möchten*)** | ✅ Completed | [Day 09 Notes](notes/day_09_2026-11-24.md) |
-| **10** | *Upcoming* | Phase 5: The Dative Case (*mit*, *zu*, *bei*) & Direction Prepositions | ⏳ Pending | *Next Session* |
+| **10** | **Wed, 25 Nov 2026** | **Phase 5: The Dative Case (*mit*, *zu*, *bei*) & Direction Prepositions** | ✅ Completed | [Day 10 Notes](notes/day_10_2026-11-25.md) |
+| **11** | *Upcoming* | Phase 5 (Part 2): Speaking in the Past (*Perfekt* Tense with *haben* & *sein*) | ⏳ Pending | *Next Session* |
 
 ---
 
@@ -45,7 +46,8 @@
 - [x] **Phase 3 (Part 2):** The Accusative Case (Direct Objects) & *den / einen / keinen*
 - [x] **Phase 4 (Part 1):** Daily Routine, Telling Time (*um* / *am*) & Separable Verbs (*trennbare Verben*)
 - [x] **Phase 4 (Part 2):** Food, Supermarket & Modal Verbs (`können`, `müssen`, `möchten`)
-- [ ] **Phase 5:** The Dative Case & Speaking in the Past (*Perfekt*)
+- [x] **Phase 5 (Part 1):** The Dative Case (*mit*, *zu*, *bei*) & Direction Prepositions
+- [ ] **Phase 5 (Part 2):** Speaking in the Past (*Perfekt* Tense with *haben* & *sein*)
 
 ---
 
@@ -64,5 +66,6 @@ German_Help/
     ├── day_07_2026-11-22.md # Day 7: Accusative Case & den / einen / keinen
     ├── day_08_2026-11-23.md # Day 8: Daily Routine, Telling Time & Separable Verbs
     ├── day_09_2026-11-24.md # Day 9: Food, Supermarket & Modal Verbs
+    ├── day_10_2026-11-25.md # Day 10: The Dative Case & Direction Prepositions
     └── ...                 # Future daily notes
 ```
