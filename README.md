@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 🔥 **10 Days** |
+| **Current Streak** | 🔥 **11 Days** |
 | **Streak Started** | Monday, 16 Nov 2026 |
-| **Last Active Date**| Wednesday, 25 Nov 2026 |
-| **Current Level** | A1.1 (Level 0 → Elementary) |
-| **Current Phase** | Phase 5 (Part 1): The Dative Case & Direction Prepositions |
+| **Last Active Date**| Thursday, 26 Nov 2026 |
+| **Current Level** | A1.1 → A1.2 (Elementary) |
+| **Current Phase** | Phase 5 (Part 2): Speaking in the Past (*Perfekt* Tense with *haben* & *sein*) |
 
 ---
 
@@ -31,7 +31,8 @@
 | **08** | **Mon, 23 Nov 2026** | **Phase 4: Daily Routine, Telling Time & Separable Verbs** | ✅ Completed | [Day 08 Notes](notes/day_08_2026-11-23.md) |
 | **09** | **Tue, 24 Nov 2026** | **Phase 4: Food, Supermarket & Modal Verbs (*können*, *müssen*, *möchten*)** | ✅ Completed | [Day 09 Notes](notes/day_09_2026-11-24.md) |
 | **10** | **Wed, 25 Nov 2026** | **Phase 5: The Dative Case (*mit*, *zu*, *bei*) & Direction Prepositions** | ✅ Completed | [Day 10 Notes](notes/day_10_2026-11-25.md) |
-| **11** | *Upcoming* | Phase 5 (Part 2): Speaking in the Past (*Perfekt* Tense with *haben* & *sein*) | ⏳ Pending | *Next Session* |
+| **11** | **Thu, 26 Nov 2026** | **Phase 5: Speaking in the Past (*Perfekt* Tense with *haben* & *sein*)** | ✅ Completed | [Day 11 Notes](notes/day_11_2026-11-26.md) |
+| **12** | *Upcoming* | Phase 6 (A1.2 Bridge): Possessive Articles (*mein*, *dein*, *sein*), Family & Describing People | ⏳ Pending | *Next Session* |
 
 ---
 
@@ -47,7 +48,8 @@
 - [x] **Phase 4 (Part 1):** Daily Routine, Telling Time (*um* / *am*) & Separable Verbs (*trennbare Verben*)
 - [x] **Phase 4 (Part 2):** Food, Supermarket & Modal Verbs (`können`, `müssen`, `möchten`)
 - [x] **Phase 5 (Part 1):** The Dative Case (*mit*, *zu*, *bei*) & Direction Prepositions
-- [ ] **Phase 5 (Part 2):** Speaking in the Past (*Perfekt* Tense with *haben* & *sein*)
+- [x] **Phase 5 (Part 2):** Speaking in the Past (*Perfekt* Tense with *haben* & *sein*)
+- [ ] **Phase 6 (A1.2 Bridge):** Possessive Articles (*mein*, *dein*, *sein*), Family & Describing People
 
 ---
 
@@ -67,5 +69,6 @@ German_Help/
     ├── day_08_2026-11-23.md # Day 8: Daily Routine, Telling Time & Separable Verbs
     ├── day_09_2026-11-24.md # Day 9: Food, Supermarket & Modal Verbs
     ├── day_10_2026-11-25.md # Day 10: The Dative Case & Direction Prepositions
+    ├── day_11_2026-11-26.md # Day 11: Speaking in the Past (Perfekt Tense)
     └── ...                 # Future daily notes
 ```
