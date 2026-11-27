@@ -9,11 +9,11 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 🔥 **11 Days** |
+| **Current Streak** | 🔥 **12 Days** |
 | **Streak Started** | Monday, 16 Nov 2026 |
-| **Last Active Date**| Thursday, 26 Nov 2026 |
+| **Last Active Date**| Friday, 27 Nov 2026 |
 | **Current Level** | A1.1 → A1.2 (Elementary) |
-| **Current Phase** | Phase 5 (Part 2): Speaking in the Past (*Perfekt* Tense with *haben* & *sein*) |
+| **Current Phase** | Phase 6 (A1.2 Bridge): Possessive Articles (*mein*, *dein*, *sein*), Family & Describing People |
 
 ---
 
@@ -32,7 +32,8 @@
 | **09** | **Tue, 24 Nov 2026** | **Phase 4: Food, Supermarket & Modal Verbs (*können*, *müssen*, *möchten*)** | ✅ Completed | [Day 09 Notes](notes/day_09_2026-11-24.md) |
 | **10** | **Wed, 25 Nov 2026** | **Phase 5: The Dative Case (*mit*, *zu*, *bei*) & Direction Prepositions** | ✅ Completed | [Day 10 Notes](notes/day_10_2026-11-25.md) |
 | **11** | **Thu, 26 Nov 2026** | **Phase 5: Speaking in the Past (*Perfekt* Tense with *haben* & *sein*)** | ✅ Completed | [Day 11 Notes](notes/day_11_2026-11-26.md) |
-| **12** | *Upcoming* | Phase 6 (A1.2 Bridge): Possessive Articles (*mein*, *dein*, *sein*), Family & Describing People | ⏳ Pending | *Next Session* |
+| **12** | **Fri, 27 Nov 2026** | **Phase 6 (A1.2 Bridge): Possessive Articles (*mein*, *dein*, *sein*), Family & Describing People** | ✅ Completed | [Day 12 Notes](notes/day_12_2026-11-27.md) |
+| **13** | *Upcoming* | Phase 6 (A1.2): Weather, Seasons, Clothes & Shopping (*dieser*, *welcher*, Colors) | ⏳ Pending | *Next Session* |
 
 ---
 
@@ -49,7 +50,8 @@
 - [x] **Phase 4 (Part 2):** Food, Supermarket & Modal Verbs (`können`, `müssen`, `möchten`)
 - [x] **Phase 5 (Part 1):** The Dative Case (*mit*, *zu*, *bei*) & Direction Prepositions
 - [x] **Phase 5 (Part 2):** Speaking in the Past (*Perfekt* Tense with *haben* & *sein*)
-- [ ] **Phase 6 (A1.2 Bridge):** Possessive Articles (*mein*, *dein*, *sein*), Family & Describing People
+- [x] **Phase 6 (A1.2 Bridge):** Possessive Articles (*mein*, *dein*, *sein*), Family & Describing People
+- [ ] **Phase 6 (Part 2):** Weather, Seasons, Clothes & Shopping (*dieser*, *welcher*, Colors)
 
 ---
 
@@ -70,5 +72,6 @@ German_Help/
     ├── day_09_2026-11-24.md # Day 9: Food, Supermarket & Modal Verbs
     ├── day_10_2026-11-25.md # Day 10: The Dative Case & Direction Prepositions
     ├── day_11_2026-11-26.md # Day 11: Speaking in the Past (Perfekt Tense)
+    ├── day_12_2026-11-27.md # Day 12: Possessive Articles, Family & Describing People
     └── ...                 # Future daily notes
 ```
